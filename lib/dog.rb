@@ -13,3 +13,5 @@ def breed
   @dbreed
 end
 end
+
+fido.name

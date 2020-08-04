@@ -3,7 +3,7 @@ class Dog
     @dname = ndname
 end
 def name
-  @dname
+  puts @dname
 end
 
 # def breed= (dnbreed)

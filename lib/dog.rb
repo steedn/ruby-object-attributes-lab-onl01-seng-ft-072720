@@ -6,10 +6,10 @@ def name
   @name
 end
 
-# def breed= (dnbreed)
-#   dnbreed = @dbreed
-# end
-# def breed
-#   @dbreed
-# end
+def breed= (dnbreed)
+  dnbreed = @breed
+end
+def breed
+  @breed
+end
 end

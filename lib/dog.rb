@@ -1,9 +1,9 @@
 class Dog
   def name= (ndname)
-    @dname = ndname
+    @name = ndname
 end
 def name
-  puts @dname
+  @name
 end
 
 # def breed= (dnbreed)

@@ -7,7 +7,7 @@ def name
 end
 
 def breed= (dnbreed)
-  dnbreed = @breed
+  @breed = dnbreed
 end
 def breed
   @breed
